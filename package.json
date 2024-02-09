@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-restful",
+  "version": "1.0.0",
+  "description": "Projet de node js rest full...",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start"
+  },
+  "author": "Tidiany",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
